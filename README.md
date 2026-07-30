@@ -6,3 +6,4 @@ This repository contains my typing practice results.
 
 ![Typing Test](typing.png)
 ![Typing Test](typing1.png)
+![Typing Test](typing2.png)
