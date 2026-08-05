@@ -9,3 +9,4 @@ This repository contains my typing practice results.
 ![Typing Test](typing2.png)
 ![Typing Test](typing3.jpeg)
 ![Typing Test](typing4.jpeg)
+![Typing Test](typing5.jpeg)
